@@ -1,6 +1,6 @@
 {
   "version": "1.1.4",
   "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.1.4/WordCountTool_Update_1.1.4.zip",
-  "sha256": "d484a35d88a5bf0b154279d2834fcde25fffbfc41bc7c4987077b7ff8dcee32c",
-  "notes": "Public update channel enabled. Includes secure server sign-in, one active device per user, live access revocation, Excel-file warnings, and the latest batch word-count workflow."
+  "sha256": "4a3326d7d59c62a571595ab49f0b61e77ecb680815120b56c9715d466b0994a5",
+  "notes": "Public update channel enabled with mandatory HTTPS and SHA-256 verification. Includes secure server sign-in, one active device per user, live access revocation, Excel-file warnings, and the latest batch word-count workflow."
 }
