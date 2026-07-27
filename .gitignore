@@ -1,0 +1,6 @@
+*.exe
+*.zip
+*.db
+*.sqlite*
+*.json.bak
+release-work/
