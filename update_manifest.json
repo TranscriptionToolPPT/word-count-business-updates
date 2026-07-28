@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.3.3/WordCountTool_Update_1.3.3.zip",
-  "sha256": "6b43e56a9b5f7aa0006cca24fd6b97872463d84a4a6a99c0d9cc2a258cb06432",
-  "notes": "Fixes support requests during unstable connections: retries transient network failures, saves requests safely, sends them after reconnecting, and replaces technical SSL errors with clear guidance. Online sessions now align with the 24-hour offline access period."
+  "version": "1.3.4",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.3.4/WordCountTool_Update_1.3.4.zip",
+  "sha256": "96df155076d60f011016f773a78fbd187d0e2de5de68c884cbd4f879e2cb374a",
+  "notes": "Fixes support requests during unstable connections: transient failures are retried, unsent requests stay saved on the device, and restored drafts automatically resume after live access returns. Online sessions now remain valid slightly beyond the 24-hour offline access period."
 }
