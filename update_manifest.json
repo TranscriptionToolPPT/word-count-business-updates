@@ -1,6 +1,6 @@
 {
-  "version": "1.3.4",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.3.4/WordCountTool_Update_1.3.4.zip",
-  "sha256": "96df155076d60f011016f773a78fbd187d0e2de5de68c884cbd4f879e2cb374a",
-  "notes": "Fixes support requests during unstable connections: transient failures are retried, unsent requests stay saved on the device, and restored drafts automatically resume after live access returns. Online sessions now remain valid slightly beyond the 24-hour offline access period."
+  "version": "1.3.5",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.3.5/WordCountTool_Update_1.3.5.zip",
+  "sha256": "457778557cb343fd688e5943c6da5020d74aea43af9f78bdf828525db28b07e4",
+  "notes": "Faster adaptive OCR for clear pages, targeted recovery for difficult pages, immediate Stop with page-level Resume, and improved action-button layout."
 }
