@@ -1,6 +1,11 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.0/WordCountTool_Update_1.4.0.zip",
-  "sha256": "4596135c76fdaa76255a1b1cd8e46d8730697e73bdd8e6dc0d49fb5fb22bc67d",
-  "notes": "Office Manager accounts, paid seat limits, office-scoped tool users, durable one-device binding, and Login as a user in this device."
+  "schema_version": 1,
+  "product_id": "routineoff.word-count-business.windows",
+  "channel": "stable",
+  "key_id": "routineoff-wct-2026-01",
+  "version": "1.4.1",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.1/WordCountTool_Update_1.4.1.zip",
+  "sha256": "ddacec11e892f61479c2cb6192c2f9f35a755828b34f860281fe846c257c4416",
+  "notes": "Transitional update that enables product-bound and channel-bound signed update verification.",
+  "signature": "2jUadA5hR2kjuG0SRta5ELQZ8aSEptSLIoHDdZutg2UmcadILgLyvtno3b2p/AKcXbqCa+czIAM73Q6I0JygCQ=="
 }
