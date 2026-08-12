@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.4.1",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.1/WordCountTool_Update_1.4.1.zip",
-  "sha256": "ddacec11e892f61479c2cb6192c2f9f35a755828b34f860281fe846c257c4416",
-  "notes": "Transitional update that enables product-bound and channel-bound signed update verification.",
-  "signature": "2jUadA5hR2kjuG0SRta5ELQZ8aSEptSLIoHDdZutg2UmcadILgLyvtno3b2p/AKcXbqCa+czIAM73Q6I0JygCQ=="
+  "version": "1.4.2",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.2/WordCountTool_Update_1.4.2.zip",
+  "sha256": "84954d6674b6a0df6ba5ad38574ed224bf43e9dec743893545da38b9f63f7c23",
+  "notes": "Final launch-readiness release with production access security, safer document processing, resilient update rollback, and verified Word, PDF, image, and Excel export workflows.",
+  "signature": "tASB/nR8tRTVXq8i+5vLKWcwmwu53D91q6nKZ73BETl1n6Bw5/sJPHF1ZZGCU8rH3tR7QKwm8HY75vvME6CDDg=="
 }

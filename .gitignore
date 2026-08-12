@@ -4,3 +4,8 @@
 *.sqlite*
 *.json.bak
 release-work/
+.env
+.env.*
+*Secrets*.json
+*LOGIN_AND_SERVER*.txt
+PRIVATE - Administration - Do Not Send/
