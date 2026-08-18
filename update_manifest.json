@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.4.5",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.5/WordCountTool_Update_1.4.5.zip",
-  "sha256": "bbadcf949ea5a27da39e7539bf2aaeb0d847b5baf8ae060b16b715bb82343edf",
-  "notes": "Improves document extraction accuracy and speed for text PDFs, PowerPoint files, UTF-16 and Arabic Windows-1256 text, and safely handles repeated document content.",
-  "signature": "w24G96H4XeWC6jnTNYgl0ZDmsJENAo5axd5Q5fel0+RS4ckyxFtLhys3VZKUOdrGFhSCrHhigFa52xT009v9CA=="
+  "version": "1.4.6",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.6/WordCountTool_Update_1.4.6.zip",
+  "sha256": "b5e31e8895bc85544d35fce2f176ddfa88cbd80e1c4f1ceabbfbc421be542973",
+  "notes": "Adds reliable in-session update detection, visible download and installation progress, safe cancellation and retry, single-instance protection during updates, and automatic restart after installation.",
+  "signature": "WzjVz1PHtcV1xc3aalygJFeBjJUCNouxp7xu/BELqHZtOleu/0C3mB0FXGSNJUsJWiJVYSVBRDPy6VdxzIIZAw=="
 }
