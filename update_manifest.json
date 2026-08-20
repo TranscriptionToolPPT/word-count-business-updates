@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.4.8",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.8/WordCountTool_Update_1.4.8.zip",
-  "sha256": "c38955d21fd1e9657f52a5dc2124cf0f5efa16f2916350d6b8288f387c8064f8",
-  "notes": "Expands the sign-in experience across the desktop window with a clean neutral canvas and a wider form, while retaining the visible in-app download, verification, installation, and automatic restart flow.",
-  "signature": "yqGLfldxmDewzUSfH0cudcx9S4ZqYZ9kJfMK63wxJQ12rYqjVmGaNJyCCyQczfszw57XdMhq10/9AXIEeh1ZBw=="
+  "version": "1.4.9",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.9/WordCountTool_Update_1.4.9.zip",
+  "sha256": "6f8d9e8602d93c3bf81469cad2a4f3446e180b8c2018b5dd6c0bba343bd55824",
+  "notes": "Fixes the Windows update handoff so the frozen app and bootloader close reliably, keeps a working Close tool now control, safely falls back only for the exact app processes, and standardizes future setup installs in one location.",
+  "signature": "mK2GjrttrHNqSP1ib4R02sizt3V8aqHxHzBlZ/jqw0HMqLeMG/eb2qmJXukHayKHMKumV6zeZDs+ZJ4fyMfXAw=="
 }
