@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.4.7",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.7/WordCountTool_Update_1.4.7.zip",
-  "sha256": "e669ec258375e3615c453badb4221d463cefbaf7d11024c8048adfbc045b7b7c",
-  "notes": "Redesigned trial-first sign-in with clear Tool User and Office Manager paths, counts only new or changed files while keeping prior results, reports privacy-safe usage totals, and refreshes Support unread badges immediately.",
-  "signature": "AbmaGhlku9eRHbVoYwKn0gwtjaP05UmuOVNCsUG3wl6VDgrGyDH8umRmd1ap93TwbeZ89uDihaaEBjwPZq6YAA=="
+  "version": "1.4.8",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.8/WordCountTool_Update_1.4.8.zip",
+  "sha256": "c38955d21fd1e9657f52a5dc2124cf0f5efa16f2916350d6b8288f387c8064f8",
+  "notes": "Expands the sign-in experience across the desktop window with a clean neutral canvas and a wider form, while retaining the visible in-app download, verification, installation, and automatic restart flow.",
+  "signature": "yqGLfldxmDewzUSfH0cudcx9S4ZqYZ9kJfMK63wxJQ12rYqjVmGaNJyCCyQczfszw57XdMhq10/9AXIEeh1ZBw=="
 }
