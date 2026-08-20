@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.4.10",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.10/WordCountTool_Update_1.4.10.zip",
-  "sha256": "6051f7c81c1e622babedb7431dc976a1871ebec3f80c02874888607adca9b79a",
-  "notes": "Keeps Word Count Tool available beside the Windows clock when its window is closed, adds Open and Exit tray controls, and keeps the installer responsive while Windows releases application files.",
-  "signature": "fJr59xTjDhyMP8reNq0OUHVHvOSsu8IrDYRcmmbUgVH3Feg4cySGMVf7ihNXAROMWR2joH0SKux4xjkOaZN0Dw=="
+  "version": "1.4.11",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.11/WordCountTool_Update_1.4.11.zip",
+  "sha256": "fd625e0e3d9cdf60828f030bed8f368b86b4242bcc2a09ba36cb15d2ba44cd09",
+  "notes": "Clear Translation Pages (/200) labels with in-app help, simplified results without physical file-page fields, quieter adaptive performance handling, and company-only branding.",
+  "signature": "PZQGRH5xAaLwoGj+TBo9va+NK1R+FsKKEsHFGOQyu0ZbWaJAjhTMrdu8Di9OON+T0GndBOcV2jjJ4d0LSPBBBQ=="
 }
