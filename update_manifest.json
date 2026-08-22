@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.4.12",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.12/WordCountTool_Update_1.4.12.zip",
-  "sha256": "e00012225113bad492a93bcca6c346a3484af79a21b39c20383d302c72e96d7f",
-  "notes": "Unified Word Count Business identity across the app, Windows shortcuts, installer, system tray, updater, and website.",
-  "signature": "4ob47dtv2XW+zH2TsgCsbWaMNfE5wHfDISTXnoecBENYr3+yxJmSJoTMyTiw1mJbdDfI4aR+1JCy5xtfQLcXBw=="
+  "version": "1.4.13",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.13/WordCountTool_Update_1.4.13.zip",
+  "sha256": "2e92a929c102475de29919a5440d38695168aeade044a2f947ac5100ea0b3925",
+  "notes": "Keeps signed-in sessions through future updates, verifies the self-contained Windows runtime, and improves installer readiness.",
+  "signature": "4LF1ENrjt6DFSRPkWdZ8nKTks+qCZWxXv4B+eVkYZzsZdoOI/np8uVl6W9OlVbrWk+ELKLre0666LavFj8DlBQ=="
 }
