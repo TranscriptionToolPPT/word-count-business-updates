@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.4.13",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.13/WordCountTool_Update_1.4.13.zip",
-  "sha256": "2e92a929c102475de29919a5440d38695168aeade044a2f947ac5100ea0b3925",
-  "notes": "Keeps signed-in sessions through future updates, verifies the self-contained Windows runtime, and improves installer readiness.",
-  "signature": "4LF1ENrjt6DFSRPkWdZ8nKTks+qCZWxXv4B+eVkYZzsZdoOI/np8uVl6W9OlVbrWk+ELKLre0666LavFj8DlBQ=="
+  "version": "1.4.14",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.14/WordCountTool_Update_1.4.14.zip",
+  "sha256": "30b069d101c60a3cee584c9182bc31b33ac6451db980f7e9cd39f6df1d00a0b4",
+  "notes": "More accurate and faster OCR for Arabic and English scans, reliable ZIP retry and partial results, and smoother handling of large document batches.",
+  "signature": "pKi9NlMUtg5T4SjIJUJIbJlv1TgyFzP+wcw8Fz2PSqq3v0uxCaFjdFFicVEE8zKmHZkn6aZwhaAM4c4D9sDRAg=="
 }
