@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.4.16",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.4.16/WordCountTool_Update_1.4.16.zip",
-  "sha256": "730338f6cc7ef8245d1289ec9bea8aaafeb15ee361a24251ca675af859c696b7",
-  "notes": "Reliable OCR orientation and quality safeguards, clean Qt runtime packaging, and accurate byte-level update progress.",
-  "signature": "7xdCNuR7+hMXaVhXvGVMSvkNVyTAYkYeBQ3wvO9s/TOTpMAWHwmYIAXV0wKrbjFGRsv/elhQGdjrHG+q+g/IAg=="
+  "version": "1.5.0",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.0/WordCountTool_Update_1.5.0.zip",
+  "sha256": "93802555ee2c396030539b97ab250e58f1eb6cfd6b5b1cc3a42422a763d2c544",
+  "notes": "Start a 4-day free trial immediately after entering an email address, with no verification code. Includes protected first-run funnel measurement and the verified OCR, Qt runtime, and updater path safeguards.",
+  "signature": "pSWK9PPW8UHPZvXxcocgLxkLrpQJi7tA2MIR4MGSKOXAJH6Deu4K/S5P1s3iBsL5AWlD/R6BCIdXZrQIoTQPCw=="
 }
