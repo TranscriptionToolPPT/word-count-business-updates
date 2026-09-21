@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.5.1",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.1/WordCountTool_Update_1.5.1.zip",
-  "sha256": "8a9ca01486b1b7572cf9680e3cfbaa488e8d81c07a55ae92cef29060dbd7e5f1",
-  "notes": "Preserves reliable Unicode OCR text for Microsoft Word counting across supported languages, while retaining confidence safeguards for unreadable scans.",
-  "signature": "TPaAQUrv+x9uIXYtGBT4E9/3cVhDF56vwwkM4KDNCdTnPJO4X1B4pDzp6FkiOjOnAgDR2Pz7BzX8xGZtqehuAw=="
+  "version": "1.5.2",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.2/WordCountTool_Update_1.5.2.zip",
+  "sha256": "1910966d435c70e66fcdb6177f13846753622ae838d100d341d3a81cdf6c9a50",
+  "notes": "Improves automatic OCR language detection, ZIP batch recovery, image-document handling, and safe PDF counting performance.",
+  "signature": "upBk1CcRprvVJv8cFrwl2BZymoIORheAEzUJjBYAOeeO1UJrsFPOLjyXjZRhyA8QjI9bPs7kBWs2l47nx+JeBg=="
 }
