@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.5.3",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.3/WordCountTool_Update_1.5.3.zip",
-  "sha256": "dfa181a7680a31abee1ba9452f310062388d040b07d0b3d4bf725344ef6c81cd",
-  "notes": "Prevents unreliable OCR fragments from being counted, while preserving scanned, rotated, nested-ZIP, and protected-document handling.",
-  "signature": "qn3P+vqGfLEhUhEfTClSsBsMVBLFEtU0Zo8n7pt97Cn5UCfU/0OdSWilZEJQUTlBero/x6mpMbfvDI8Z27OcAA=="
+  "version": "1.5.4",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.4/WordCountTool_Update_1.5.4.zip",
+  "sha256": "0970ca65b912ab45b8442d2188fd746ddfd7b712e084519747e9ca58ff11d1f5",
+  "notes": "Adds pre-sign-in help and privacy-preserving customer-journey measurement, with safer file-scan shutdown handling.",
+  "signature": "0YGDKVwPi/3SCo0mj5dMjmjeBsXOHzxyCSMarpWqIF1KcT+7Z6BPNVSTCJiVOLAgm5Nua8gxrkR5lJZm2qa/AA=="
 }
