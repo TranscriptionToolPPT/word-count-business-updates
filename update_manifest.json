@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.5.4",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.4/WordCountTool_Update_1.5.4.zip",
-  "sha256": "0970ca65b912ab45b8442d2188fd746ddfd7b712e084519747e9ca58ff11d1f5",
-  "notes": "Adds pre-sign-in help and privacy-preserving customer-journey measurement, with safer file-scan shutdown handling.",
-  "signature": "0YGDKVwPi/3SCo0mj5dMjmjeBsXOHzxyCSMarpWqIF1KcT+7Z6BPNVSTCJiVOLAgm5Nua8gxrkR5lJZm2qa/AA=="
+  "version": "1.5.5",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.5/WordCountTool_Update_1.5.5.zip",
+  "sha256": "37e107e01d05f8b5d11248752b734d239ae482a24396025e88dc08341ec65f05",
+  "notes": "Adds precise milestones for completed, paused, and resumed counting, and shows each customer's last confirmed journey stage in the admin view.",
+  "signature": "MlXT0hE1LljB3IK6L57OSnS6KQ0CcC6TsPOkW3rhurFG1iYcJJNBdIUThWwlzF47mKD+alu9Xc4T0jEVXBxDDw=="
 }
