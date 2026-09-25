@@ -3,9 +3,9 @@
   "product_id": "routineoff.word-count-business.windows",
   "channel": "stable",
   "key_id": "routineoff-wct-2026-01",
-  "version": "1.5.5",
-  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.5/WordCountTool_Update_1.5.5.zip",
-  "sha256": "37e107e01d05f8b5d11248752b734d239ae482a24396025e88dc08341ec65f05",
-  "notes": "Adds precise milestones for completed, paused, and resumed counting, and shows each customer's last confirmed journey stage in the admin view.",
-  "signature": "MlXT0hE1LljB3IK6L57OSnS6KQ0CcC6TsPOkW3rhurFG1iYcJJNBdIUThWwlzF47mKD+alu9Xc4T0jEVXBxDDw=="
+  "version": "1.5.6",
+  "url": "https://github.com/TranscriptionToolPPT/word-count-business-updates/releases/download/v1.5.6/WordCountTool_Update_1.5.6.zip",
+  "sha256": "71fe87e7a9593a1fd7842249edc918b22548ffb41b7e407925079132529d974c",
+  "notes": "Rounds translation pages from the combined batch word total once, so 2,754 words are billed as 14 pages in the summary and Excel export.",
+  "signature": "8fH2zhj/J6fdsnt5r316oOOPEUr6fpEUchwx5Ao61V56LHDFK3nClDELVml/bSH/Ug/RXyofEhu4q+M/49EHDA=="
 }
